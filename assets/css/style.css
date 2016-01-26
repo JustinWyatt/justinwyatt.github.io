@@ -231,7 +231,6 @@ input {
 #h .logo h2{
 	font-weight: 900;
 	color: white;
-    text-shadow: 1px 1px 1px #000;
 	letter-spacing: 1px;
 }
 
@@ -242,6 +241,11 @@ input {
 #h i {
 	font-size: 50px;
 }
+
+.nameplate {
+    text-shadow: 1px 1px 1px #000000;
+}
+
 
 /* GREY SECTION */
 #g {
