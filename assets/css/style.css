@@ -230,8 +230,10 @@ input {
 
 #h .logo h2{
 	font-weight: 900;
-	color: black;
+	color: white;
 	letter-spacing: 1px;
+    text-shadow: 1px 1px 1px #000000;
+
 }
 
 #h h3 {
@@ -243,7 +245,6 @@ input {
 }
 
 #nameplate {
-    text-shadow: 1px 1px 1px #000000;
 }
 
 
