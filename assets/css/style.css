@@ -208,7 +208,6 @@ input {
 	min-height: 700px;
 	width: 100%;
 
-    opacity: 0.5;
 	
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
@@ -232,8 +231,6 @@ input {
 	font-weight: 900;
 	color: white;
 	letter-spacing: 1px;
-    text-shadow: 10px 10px 10px #000000;
-
 }
 
 #h h3 {
@@ -242,9 +239,6 @@ input {
 
 #h i {
 	font-size: 50px;
-}
-
-#nameplate {
 }
 
 
