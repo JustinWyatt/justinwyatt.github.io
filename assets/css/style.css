@@ -230,7 +230,7 @@ input {
 
 #h .logo h2{
 	font-weight: 900;
-	color: white;
+	color: black;
 	letter-spacing: 1px;
 }
 
@@ -242,7 +242,7 @@ input {
 	font-size: 50px;
 }
 
-.nameplate {
+#nameplate {
     text-shadow: 1px 1px 1px #000000;
 }
 
