@@ -207,6 +207,8 @@ input {
 	background-position: center center;
 	min-height: 700px;
 	width: 100%;
+
+    opacity: 0.5;
 	
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
