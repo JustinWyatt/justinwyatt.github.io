@@ -263,7 +263,7 @@ input {
         position: absolute;
         left: 20px;
         bottom: 50px;
-        
+        height: 400px;
     }
 
     #h .logo h2 {
