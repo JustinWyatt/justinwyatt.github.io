@@ -227,6 +227,13 @@ input {
 	padding-bottom: 150px;
 }
 
+#h .logoimage {
+
+    width: 120px;
+    height: 200px;
+    
+}
+
 #h .logo h2{
 	font-weight: 900;
 	color: white;
